@@ -3,7 +3,7 @@
 </p>
 
 
-> A simple and straightforward CRUD API built with NestJS framework. 🌟
+> A simple and straightforward CRUD API built with NestJS framework and PostgreSQL. 🌟
 
 ## Features ✨
 
