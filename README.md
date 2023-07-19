@@ -2,8 +2,9 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
+# Nestgree - Simple CRUD API
+Nestgree is a simple CRUD API built using NestJS, ExpressJS, TypeORM and PostgreSQL that provides basic CRUD (Create, Read, Update, Delete) operations for managing items. It follows a modular and scalable architecture using NestJS modules and comes with built-in validation, error handling, and logging for ease of use and debugging.
 
-> A simple and straightforward CRUD API built with NestJS framework and PostgreSQL. 🌟
 
 ## Features ✨
 
